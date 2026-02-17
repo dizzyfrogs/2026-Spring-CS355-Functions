@@ -1,0 +1,10 @@
+[package]
+name = "functions_exceptions"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+
+[dev-dependencies]
+hamcrest2 = "0.3.0"
+rstest = "0.21.0"
